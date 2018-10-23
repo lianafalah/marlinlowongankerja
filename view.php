@@ -8,7 +8,7 @@
 			<tr>
 				<td>Bilangan </td>
 				<td>:</td>
-				<td><input type="text" name="bilangan"></td>
+				<td><input type="text" name="angka"></td>
 				<td><input type="submit" value="Tampilkan"></td>
 			</tr>
 		</table>
