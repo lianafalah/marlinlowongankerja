@@ -10,10 +10,10 @@ class kelipatan{
 			{
 				echo "Booking </br>";
 			}
-			else if (($a%3==0) and ($a % 5 ==0)){
+			else if (($a%3==0) && ($a % 5 ==0)){
 				echo "Marlin Booking </br>";
 			}
-			else if (($a%3==0) and ($a%5==0) ==2){
+			else if (($a%3==0) && ($a%5==0) ==2){
 				if ($a%3==0) 
 				{
 					echo "Booking </br>";
@@ -22,11 +22,11 @@ class kelipatan{
 				{
 					echo "Marlin </br>";
 				}	
-				else if (($a%3==0) and ($a % 5 ==0)){
+				else if (($a%3==0) && ($a % 5 ==0)){
 					echo "Booking Marlin <br>";
 				}
 			}
-			else if (($a % 3 ==0) and ($a % 5 ==0) > 5){
+			else if (($a % 3 ==0) && ($a % 5 ==0) > 5){
 				break;
 			}
 		}
